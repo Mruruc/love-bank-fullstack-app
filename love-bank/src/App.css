@@ -1,0 +1,17 @@
+/*
+
+*{
+    background-color: rgb(149, 146, 146);
+}
+*/
+
+.main-container{
+    margin-top: 6rem;
+}
+
+.error-page{
+    text-align: center;
+    min-height: 100vh;
+    margin-top: 8rem;
+    font-size: larger;
+}

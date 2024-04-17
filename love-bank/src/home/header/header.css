@@ -1,0 +1,44 @@
+.containerNav{
+    background-color: rgb(230, 234, 239);
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height:4rem;
+}
+
+.navBar{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    flex: 1;
+    align-items: baseline;
+}
+.startNav{
+    flex: 1;
+    font-size: xx-large;
+    font-weight:lighter;
+}
+.middleNav{
+    flex: 2;
+}
+.headers{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+
+    list-style-type: none;
+
+    font-size: large;
+    font-weight:500;
+    color: rgb(36, 35, 35);
+}
+
+.endNav{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+    flex: 1;
+}
+
